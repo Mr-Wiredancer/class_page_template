@@ -1,0 +1,15 @@
+{
+  "plugins": [
+    "embed-pdf",
+    "ga",
+    "collapsible-chapters",
+    "alerts"],
+  "pluginsConfig": {
+    "disqus": {
+      "shortName": "cs101"
+      },
+    "ga": {
+      "token": "UA-106608965-2"
+      }
+    }
+  }
